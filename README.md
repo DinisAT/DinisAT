@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinis Timoteo</h1>
-<h3 align="center">A passionate Data Analyst from Brussels</h3>
+<h3 align="center">A passionate Data Scientist from Portugal</h3>
 
 <p align="left"> <a href="https://twitter.com/dinisatimoteo" target="blank"><img src="https://img.shields.io/twitter/follow/dinisatimoteo?logo=twitter&style=for-the-badge" alt="dinisatimoteo" /></a> </p>
 
