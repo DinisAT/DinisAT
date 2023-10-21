@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [online-fake-news-detection](https://github.com/gauthieret/online-fake-news-detection)
 
-- 🌱 I’m currently learning **R Language and Tableau**
+- 🌱 I’m currently the **Chief Data Scientist for Unblind**
 
 - 📫 How to reach me **dinisamador@gmail.com**
 
