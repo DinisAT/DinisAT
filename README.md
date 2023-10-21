@@ -5,8 +5,7 @@
 
 - 🔭 I’m currently working on [online-fake-news-detection](https://github.com/gauthieret/online-fake-news-detection)
 
-- 🌱 I’m currently the **Chief Data Scientist for Unblind**
-
+- 🌱 In the role of **Chief Data Scientist** for ***Unblind***
 - 📫 How to reach me **dinisamador@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
