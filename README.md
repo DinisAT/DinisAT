@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/dinisatimoteo" target="blank"><img src="https://img.shields.io/twitter/follow/dinisatimoteo?logo=twitter&style=for-the-badge" alt="dinisatimoteo" /></a> </p>
 
-- 🔭 I’m currently working on [online-fake-news-detection](https://github.com/gauthieret/online-fake-news-detection)
+- 🔭 Started my journey on [online-fake-news-detection](https://github.com/gauthieret/online-fake-news-detection)
 
 - 🌱 In the role of **Chief Data Scientist** for ***Unblind***
 - 📫 How to reach me **dinisamador@gmail.com**
