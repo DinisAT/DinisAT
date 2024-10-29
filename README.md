@@ -5,7 +5,7 @@
 
 - 🔭 Started my journey on [online-fake-news-detection](https://github.com/gauthieret/online-fake-news-detection)
 
-- 🌱 In the role of **Chief Data Scientist** for ***Unblind***
+- 🌱 In the role of **Lead ML Engineer and Data Science** for ***Ako-AI***
 - 📫 How to reach me **dinisamador@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
